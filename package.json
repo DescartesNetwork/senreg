@@ -7,7 +7,7 @@
     "start": "nodemon index.js --ignore build",
     "build": "node index.js",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d register.json",
+    "deploy": "gh-pages -d build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
