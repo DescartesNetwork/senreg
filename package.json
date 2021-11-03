@@ -4,7 +4,7 @@
   "description": "Sen Register",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js --ignore register.json",
+    "start": "nodemon index.js --ignore build",
     "build": "node index.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d register.json",

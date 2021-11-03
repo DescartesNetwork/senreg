@@ -22,7 +22,8 @@ fs.readdirSync(src).forEach(function (file) {
     )
   register[manifest.appId] = manifest
 })
-fs.writeFileSync('register.json', JSON.stringify(register, null, 2))
+if (!fs.existsSync('./build')) fs.mkdirSync('./build')
+fs.writeFileSync('./build/register.json', JSON.stringify(register, null, 2))
 
 console.log('********************************')
 console.log(
