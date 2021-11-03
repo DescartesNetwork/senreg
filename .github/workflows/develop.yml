@@ -3,16 +3,20 @@ name: Automatic Deployment
 on:
   push:
     branches: [develop]
+  pull_request:
+    branches: [develop]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Welcome
-        run: echo Start deploying SenHub
+        run: echo Start deploying SenReg
       - name: Checkout git
         uses: actions/checkout@v2
       - name: Install dependencies
         run: npm install
       - name: Test
         run: npm test
+        env:
+          CI: true
