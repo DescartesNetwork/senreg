@@ -1,0 +1,18 @@
+name: Automatic Deployment
+
+on:
+  push:
+    branches: [develop]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Welcome
+        run: echo Start deploying SenHub
+      - name: Checkout git
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: npm install
+      - name: Test
+        run: npm runn build
