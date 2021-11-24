@@ -2,7 +2,12 @@ const fs = require('fs')
 const path = require('path')
 
 const src = path.join(__dirname, './src')
-function validate(manifest) {
+function validateFilename(filename) {
+  const rule = /^([A-Za-z0-9\-]*)\.manifest\.json$/
+  if (!rule.test(filename)) return false
+  return true
+}
+function validateManifest(manifest) {
   const rule = /^[A-Za-z0-9\-]*$/
   if (!manifest || typeof manifest != 'object') return false
   if (!manifest.appId || !rule.test(manifest.appId)) return false
@@ -15,8 +20,9 @@ function validate(manifest) {
 const register = {}
 fs.readdirSync(src).forEach(function (file) {
   const manifest = require(`./src/${file}`)
-  if (!validate(manifest)) throw new Error('Invalid manifest.')
-  if (file != `${manifest.appId}.json`)
+  if (!validateFilename(file)) throw new Error('Invalid filename.')
+  if (!validateManifest(manifest)) throw new Error('Invalid manifest.')
+  if (file != `${manifest.appId}.manifest.json`)
     throw new Error(
       'Invalid name. The file name must be identical to the app id.',
     )
