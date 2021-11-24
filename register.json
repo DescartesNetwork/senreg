@@ -1,7 +1,7 @@
 {
-  "bulk-sender": {
+  "bulk_sender": {
     "url": "https://tuphan-dn.github.io/bulksender/index.js",
-    "appId": "bulk-sender",
+    "appId": "bulk_sender",
     "name": "Bulk Sender",
     "author": {
       "name": "Tu Phan",
