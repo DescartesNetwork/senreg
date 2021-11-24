@@ -3,7 +3,7 @@ const path = require('path')
 
 const src = path.join(__dirname, './src')
 function validate(manifest) {
-  const rule = /^[A-Za-z0-9]*$/
+  const rule = /^[A-Za-z0-9\-]*$/
   if (!manifest || typeof manifest != 'object') return false
   if (!manifest.appId || !rule.test(manifest.appId)) return false
   if (!manifest.url || !manifest.name || !manifest.description) return false
