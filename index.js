@@ -12,7 +12,7 @@ function validateManifest(manifest) {
   if (!manifest || typeof manifest != 'object') return false
   if (!manifest.appId || !rule.test(manifest.appId)) return false
   if (!manifest.url || !manifest.name || !manifest.description) return false
-  if (manifest.name.toLowerCase().replace(' ', '_') !== manifest.appId)
+  if (manifest.name.toLowerCase().replaceAll(' ', '_') !== manifest.appId)
     return false
   if (!manifest.author || !manifest.author.name || !manifest.author.email)
     return false
