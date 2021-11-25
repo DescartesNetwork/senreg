@@ -8,7 +8,7 @@ function validateFilename(filename) {
   return true
 }
 function validateManifest(manifest) {
-  const rule = /^[A-Za-z0-9\_]*$/
+  const rule = /^[a-z0-9\_]*$/
   if (!manifest || typeof manifest != 'object') return false
   if (!manifest.appId || !rule.test(manifest.appId)) return false
   if (!manifest.url || !manifest.name || !manifest.description) return false
