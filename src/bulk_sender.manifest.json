@@ -2,6 +2,7 @@
   "url": "https://tuphan-dn.github.io/bulksender/index.js",
   "appId": "bulk_sender",
   "name": "Bulk Sender",
+  "supportedViews": ["page"],
   "author": {
     "name": "Tu Phan",
     "email": "tuphan@descartes.network"
