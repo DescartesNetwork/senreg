@@ -36,5 +36,25 @@
     ],
     "description": "To manage your SPL tokens by many advanced functions",
     "verified": false
+  },
+  "senswap": {
+    "url": "https://github.com/DescartesNetwork/sen-swap/index.js",
+    "appId": "senswap",
+    "name": "Senswap",
+    "supportedViews": [
+      "page",
+      "widget"
+    ],
+    "author": {
+      "name": "Sentre",
+      "email": "hi@sentre.io"
+    },
+    "tags": [
+      "solana",
+      "dapps",
+      "sentre"
+    ],
+    "description": "SPLT Swap for SPL tokens",
+    "verified": false
   }
 }
