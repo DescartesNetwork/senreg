@@ -1,7 +1,7 @@
 {
   "url": "https://github.com/DescartesNetwork/sen-swap/index.js",
-  "appId": "senswap",
-  "name": "Senswap",
+  "appId": "sen_swap",
+  "name": "Sen Swap",
   "supportedViews": ["page", "widget"],
   "author": {
     "name": "Sentre",
