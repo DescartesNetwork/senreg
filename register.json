@@ -37,10 +37,10 @@
     "description": "To manage your SPL tokens by many advanced functions",
     "verified": false
   },
-  "senswap": {
-    "url": "https://github.com/DescartesNetwork/sen-swap/index.js",
-    "appId": "senswap",
-    "name": "Senswap",
+  "sen_swap": {
+    "url": "https://descartesnetwork.github.io/sen-swap/index.js",
+    "appId": "sen_swap",
+    "name": "Sen Swap",
     "supportedViews": [
       "page",
       "widget"
