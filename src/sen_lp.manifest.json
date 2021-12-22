@@ -1,0 +1,13 @@
+{
+  "url": "https://descartesnetwork.github.io/sen-lp/index.js/index.js",
+  "appId": "sen_lp",
+  "name": "Sen LP",
+  "supportedViews": ["page", "widget"],
+  "author": {
+    "name": "Sentre",
+    "email": "hi@sentre.io"
+  },
+  "tags": ["solana", "dapps", "liquidity"],
+  "description": "Liquidity Provision to pools in the Sentre ecosystem",
+  "verified": false
+}
