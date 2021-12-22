@@ -1,0 +1,13 @@
+{
+  "url": "https://descartesnetwork.github.io/senhub/index.js",
+  "appId": "sen_lp",
+  "name": "Sen LP",
+  "supportedViews": ["page", "widget"],
+  "author": {
+    "name": "Sentre",
+    "email": "hi@sentre.io"
+  },
+  "tags": ["solana", "dapps", "sentre"],
+  "description": "Liquidity Provision to pools of triad for SPL tokens",
+  "verified": false
+}
