@@ -7,7 +7,7 @@
     "name": "Sentre",
     "email": "hi@sentre.io"
   },
-  "tags": ["solana", "dapps", "sentre"],
-  "description": "Liquidity Provision to pools of triad for SPL tokens",
+  "tags": ["solana", "dapps", "liquidity"],
+  "description": "Liquidity Provision to pools in Sentre ecosystem",
   "verified": false
 }
