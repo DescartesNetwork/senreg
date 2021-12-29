@@ -37,6 +37,26 @@
     "description": "To manage your SPL tokens by many advanced functions",
     "verified": false
   },
+  "sen_farming": {
+    "url": "https://descartesnetwork.github.io/sen-farming/index.js",
+    "appId": "sen_farming",
+    "name": "Sen Farming",
+    "supportedViews": [
+      "page",
+      "widget"
+    ],
+    "author": {
+      "name": "Sentre",
+      "email": "hi@sentre.io"
+    },
+    "tags": [
+      "solana",
+      "dapps",
+      "liquidity"
+    ],
+    "description": "Stake your LP tokens to earn more profit",
+    "verified": false
+  },
   "sen_lp": {
     "url": "https://descartesnetwork.github.io/sen-lp/index.js",
     "appId": "sen_lp",
