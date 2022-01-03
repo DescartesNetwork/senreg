@@ -35,7 +35,7 @@
       "sen"
     ],
     "description": "To manage your SPL tokens by many advanced functions",
-    "verified": false
+    "verified": true
   },
   "sen_farming": {
     "url": "https://descartesnetwork.github.io/sen-farming/index.js",
