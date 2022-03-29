@@ -3,9 +3,6 @@
     "url": "https://tuphan-dn.github.io/bulksender/index.js",
     "appId": "bulk_sender",
     "name": "Bulk Sender",
-    "supportedViews": [
-      "page"
-    ],
     "author": {
       "name": "Tu Phan",
       "email": "tuphan@descartes.network"
@@ -22,10 +19,6 @@
     "url": "https://descartesnetwork.github.io/sen-assets/index.js",
     "appId": "sen_assets",
     "name": "Sen Assets",
-    "supportedViews": [
-      "page",
-      "widget"
-    ],
     "author": {
       "name": "Sentre",
       "email": "hi@sentre.io"
@@ -41,10 +34,6 @@
     "url": "https://descartesnetwork.github.io/sen-farming/index.js",
     "appId": "sen_farming",
     "name": "Sen Farming",
-    "supportedViews": [
-      "page",
-      "widget"
-    ],
     "author": {
       "name": "Sentre",
       "email": "hi@sentre.io"
@@ -61,10 +50,6 @@
     "url": "https://descartesnetwork.github.io/sen-lp/index.js",
     "appId": "sen_lp",
     "name": "Sen LP",
-    "supportedViews": [
-      "page",
-      "widget"
-    ],
     "author": {
       "name": "Sentre",
       "email": "hi@sentre.io"
@@ -81,10 +66,6 @@
     "url": "https://descartesnetwork.github.io/sen-swap/index.js",
     "appId": "sen_swap",
     "name": "Sen Swap",
-    "supportedViews": [
-      "page",
-      "widget"
-    ],
     "author": {
       "name": "Sentre",
       "email": "hi@sentre.io"
