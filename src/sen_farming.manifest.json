@@ -2,7 +2,6 @@
   "url": "https://descartesnetwork.github.io/sen-farming/index.js",
   "appId": "sen_farming",
   "name": "Sen Farming",
-  "supportedViews": ["page", "widget"],
   "author": {
     "name": "Sentre",
     "email": "hi@sentre.io"
