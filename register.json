@@ -25,9 +25,10 @@
     },
     "tags": [
       "solana",
-      "dapps"
+      "dapps",
+      "utility"
     ],
-    "description": "A sample project for Sentre developers",
+    "description": "Distribute your tokens to thousands of addresses in seconds with a single signature",
     "verified": false
   },
   "sen_assets": {
