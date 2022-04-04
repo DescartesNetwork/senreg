@@ -40,8 +40,8 @@
       "email": "hi@sentre.io"
     },
     "tags": [
-      "dapps",
-      "sen"
+      "utility",
+      "sentre"
     ],
     "description": "To manage your SPL tokens by many advanced functions",
     "verified": true
@@ -55,9 +55,8 @@
       "email": "hi@sentre.io"
     },
     "tags": [
-      "solana",
       "dapps",
-      "liquidity"
+      "sentre"
     ],
     "description": "Stake your LP tokens to earn more profit",
     "verified": false
@@ -71,9 +70,8 @@
       "email": "hi@sentre.io"
     },
     "tags": [
-      "solana",
       "dapps",
-      "liquidity"
+      "sentre"
     ],
     "description": "Liquidity Provision to pools in the Sentre ecosystem",
     "verified": false
@@ -87,7 +85,6 @@
       "email": "hi@sentre.io"
     },
     "tags": [
-      "solana",
       "dapps",
       "sentre"
     ],
