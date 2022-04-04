@@ -6,7 +6,7 @@
     "name": "Sentre",
     "email": "hi@sentre.io"
   },
-  "tags": ["solana", "dapps", "liquidity"],
+  "tags": ["dapps", "sentre"],
   "description": "Liquidity Provision to pools in the Sentre ecosystem",
   "verified": false
 }
