@@ -1,12 +1,12 @@
 {
-  "url": "https://descartesnetwork.github.io/sen-lightning-tunnel/index.js",
+  "url": "https://github.com/DescartesNetwork/sen-lightning-tunnel/index.js",
   "appId": "lightning_tunnel",
   "name": "Lightning Tunnel",
   "author": {
     "name": "Sentre",
     "email": "hi@sentre.io"
   },
-  "tags": ["solana", "dapps"],
-  "description": "A sample project for Sentre developers",
+  "tags": ["solana", "dapps", "utility"],
+  "description": "Distribute your tokens to thousands of addresses in seconds with a single signature",
   "verified": false
 }
