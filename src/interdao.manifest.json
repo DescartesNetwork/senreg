@@ -1,0 +1,12 @@
+{
+  "url": "https://descartesnetwork.github.io/interdao.so/index.js",
+  "appId": "interdao",
+  "name": "InterDAO",
+  "author": {
+    "name": "Descartes Network",
+    "email": "hello@descartes.network"
+  },
+  "tags": ["dapps", "dao"],
+  "description": "🌏 InterDAO is a universal DAO solution that projects on Solana can seamlessly construct their owned DAO.",
+  "verified": false
+}
