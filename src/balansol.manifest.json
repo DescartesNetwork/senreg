@@ -1,0 +1,12 @@
+{
+  "url": "https://descartesnetwork.github.io/balansol/index.js",
+  "appId": "balansol",
+  "name": "Balansol",
+  "author": {
+    "name": "Sentre",
+    "email": "hi@sentre.io"
+  },
+  "tags": ["sentre"],
+  "description": "A project for Balancing in pools with flexible weights",
+  "verified": false
+}
