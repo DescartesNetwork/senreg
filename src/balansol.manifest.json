@@ -6,7 +6,7 @@
     "name": "Sentre",
     "email": "hi@sentre.io"
   },
-  "tags": ["sentre"],
+  "tags": ["sentre", "AMM", "liquidity"],
   "description": "A project for Balancing in pools with flexible weights",
   "verified": false
 }
