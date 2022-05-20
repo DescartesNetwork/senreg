@@ -1,0 +1,12 @@
+{
+  "url": "https://descartesnetwork.github.io/sypool-iframe/index.js",
+  "appId": "sypool",
+  "name": "Sypool",
+  "author": {
+    "name": "Sypool",
+    "email": "team@sypool.io"
+  },
+  "tags": ["solana", "liquidity"],
+  "description": "Synthetic Asset Pools Management",
+  "verified": false
+}
