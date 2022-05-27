@@ -1,0 +1,12 @@
+{
+  "url": "https://descartesnetwork.github.io/miniroyale-iframe/index.js",
+  "appId": "mini_royale",
+  "name": "Mini Royale",
+  "author": {
+    "name": "Mini Royale: Nations",
+    "email": "https://discord.com/invite/miniroyale"
+  },
+  "tags": ["game"],
+  "description": "🔫 Open economy FPS on #Solana. [For technical demo purpose only. Please contact hi@sentre.io if there are any copyright/IP problems.]",
+  "verified": false
+}
