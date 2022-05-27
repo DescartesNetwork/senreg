@@ -62,6 +62,20 @@
     "description": "Distribute your tokens to thousands of addresses in seconds with a single signature",
     "verified": false
   },
+  "mini_royale": {
+    "url": "https://descartesnetwork.github.io/miniroyale-iframe/index.js",
+    "appId": "mini_royale",
+    "name": "Mini Royale",
+    "author": {
+      "name": "Mini Royale: Nations",
+      "email": "https://discord.com/invite/miniroyale"
+    },
+    "tags": [
+      "game"
+    ],
+    "description": "🔫 Open economy FPS on #Solana. [For technical demo purpose only. Please contact hi@sentre.io if there are any copyright/IP problems.]",
+    "verified": false
+  },
   "sen_assets": {
     "url": "https://descartesnetwork.github.io/sen-assets/index.js",
     "appId": "sen_assets",
