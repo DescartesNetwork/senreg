@@ -1,0 +1,12 @@
+{
+  "url": "https://descartesnetwork.github.io/senhub/index.js",
+  "appId": "defi_land",
+  "name": "DeFi Land",
+  "author": {
+    "name": "DeFi Land",
+    "email": "https://discord.com/invite/defiland"
+  },
+  "tags": ["game", "nft", "gamefi"],
+  "description": "DeFi Land is a multi-chain agriculture-simulation game created to gamify Decentralized Finance. Our game will have all the features that traditional platforms have but it will be gathered all in one place. Players will be able to start playing the game for free, grind their way up to the play-2-earn tier, compete with others, craft, trade and more.",
+  "verified": false
+}
