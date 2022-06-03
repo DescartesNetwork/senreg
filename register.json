@@ -83,13 +83,15 @@
     "appId": "mini_royale",
     "name": "Mini Royale",
     "author": {
-      "name": "Mini Royale: Nations",
+      "name": "faraway",
       "email": "https://discord.com/invite/miniroyale"
     },
     "tags": [
-      "game"
+      "game",
+      "NFT",
+      "P2E"
     ],
-    "description": "🔫 Open economy FPS on #Solana. [For technical demo purpose only. Please contact hi@sentre.io if there are any copyright/IP problems.]",
+    "description": "🔫 Open economy FPS on #Solana.",
     "verified": false
   },
   "sen_assets": {
