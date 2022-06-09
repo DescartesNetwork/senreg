@@ -63,7 +63,7 @@
     "verified": false
   },
   "lightning_tunnel": {
-    "url": "https://github.com/DescartesNetwork/lightning-tunnel/index.js",
+    "url": "https://descartesnetwork.github.io/lightning-tunnel/index.js",
     "appId": "lightning_tunnel",
     "name": "Lightning Tunnel",
     "author": {
