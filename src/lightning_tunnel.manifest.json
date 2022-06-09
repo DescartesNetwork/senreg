@@ -1,5 +1,5 @@
 {
-  "url": "https://descartesnetwork.github.io/sen-lightning-tunnel/index.js",
+  "url": "https://github.com/DescartesNetwork/lightning-tunnel/index.js",
   "appId": "lightning_tunnel",
   "name": "Lightning Tunnel",
   "author": {
@@ -7,6 +7,6 @@
     "email": "hi@sentre.io"
   },
   "tags": ["solana", "dapps", "utility"],
-  "description": "Distribute your tokens to thousands of addresses in seconds with a single signature",
+  "description": "🌦 The Solana Tool for Mega Airdrops with less-than- Transaction Fee.",
   "verified": false
 }
