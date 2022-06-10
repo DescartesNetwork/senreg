@@ -13,7 +13,7 @@
       "liquidity"
     ],
     "description": "A project for Balancing in pools with flexible weights",
-    "verified": false
+    "verified": true
   },
   "bulk_sender": {
     "url": "https://tuphan-dn.github.io/bulksender/index.js",
@@ -29,7 +29,7 @@
       "utility"
     ],
     "description": "Single signature for Multiple transactions",
-    "verified": false
+    "verified": true
   },
   "defi_land": {
     "url": "https://descartesnetwork.github.io/defiland-iframe/index.js",
@@ -75,8 +75,8 @@
       "dapps",
       "utility"
     ],
-    "description": "🌦 The Solana Tool for Mega Airdrops with less-than- Transaction Fee.",
-    "verified": false
+    "description": "🌦 The Solana Tool for Mega Airdrops with less-than-$1 Transaction Fee.",
+    "verified": true
   },
   "mini_royale": {
     "url": "https://descartesnetwork.github.io/miniroyale-iframe/index.js",
@@ -92,7 +92,7 @@
       "P2E"
     ],
     "description": "🔫 Open economy FPS on #Solana.",
-    "verified": false
+    "verified": true
   },
   "sen_assets": {
     "url": "https://descartesnetwork.github.io/sen-assets/index.js",
