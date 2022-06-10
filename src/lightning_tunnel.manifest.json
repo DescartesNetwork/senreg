@@ -7,6 +7,6 @@
     "email": "hi@sentre.io"
   },
   "tags": ["solana", "dapps", "utility"],
-  "description": "🌦 The Solana Tool for Mega Airdrops with less-than- Transaction Fee.",
-  "verified": false
+  "description": "🌦 The Solana Tool for Mega Airdrops with less-than-$1 Transaction Fee.",
+  "verified": true
 }

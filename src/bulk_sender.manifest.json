@@ -8,5 +8,5 @@
   },
   "tags": ["solana", "dapp", "utility"],
   "description": "Single signature for Multiple transactions",
-  "verified": false
+  "verified": true
 }
