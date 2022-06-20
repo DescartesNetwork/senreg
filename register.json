@@ -94,6 +94,22 @@
     "description": "🔫 Open economy FPS on #Solana.",
     "verified": true
   },
+  "saros": {
+    "url": "https://descartesnetwork.github.io/saros/index.js",
+    "appId": "saros",
+    "name": "Saros",
+    "author": {
+      "name": "Saros",
+      "email": "hi@saros.finance"
+    },
+    "tags": [
+      "liquidity",
+      "AMM",
+      "farming"
+    ],
+    "description": "A DeFi Super-Network Built on S◎lana.",
+    "verified": false
+  },
   "sen_assets": {
     "url": "https://descartesnetwork.github.io/sen-assets/index.js",
     "appId": "sen_assets",
