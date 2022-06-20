@@ -95,7 +95,7 @@
     "verified": true
   },
   "saros": {
-    "url": "https://descartesnetwork.github.io/saros/index.js",
+    "url": "https://descartesnetwork.github.io/saros-iframe/index.js",
     "appId": "saros",
     "name": "Saros",
     "author": {
