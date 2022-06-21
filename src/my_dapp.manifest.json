@@ -1,0 +1,12 @@
+{
+  "url": "https://tuphan-dn.github.io/my-dapp/index.js",
+  "appId": "my_dapp",
+  "name": "My DApp",
+  "author": {
+    "name": "Tu Phan",
+    "email": "tuphan@descartes.network"
+  },
+  "tags": ["solana", "dapps"],
+  "description": "A sample project for Sentre Hub v3",
+  "verified": false
+}
