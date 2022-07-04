@@ -1,9 +1,9 @@
 {
   "url": "https://descartesnetwork.github.io/idl-parser/index.js",
-  "appId": "idlparser",
-  "name": "IDLParser",
+  "appId": "idl_parser",
+  "name": "IDL Parser",
   "author": { "name": "Sentre", "email": "hi@sentre.io" },
-  "tags": ["solana", "dapps"],
+  "tags": ["utility"],
   "description": "The developer's tool for parsing IDL and generating instruction",
   "verified": false
 }
