@@ -47,6 +47,20 @@
     "description": "DeFi Land is a multi-chain agriculture-simulation game created to gamify Decentralized Finance. Our game will have all the features that traditional platforms have but it will be gathered all in one place. Players will be able to start playing the game for free, grind their way up to the play-2-earn tier, compete with others, craft, trade and more.",
     "verified": false
   },
+  "idl_parser": {
+    "url": "https://descartesnetwork.github.io/idl-parser/index.js",
+    "appId": "idl_parser",
+    "name": "IDL Parser",
+    "author": {
+      "name": "Sentre",
+      "email": "hi@sentre.io"
+    },
+    "tags": [
+      "utility"
+    ],
+    "description": "The developer's tool for parsing IDL and generating instruction",
+    "verified": false
+  },
   "interdao": {
     "url": "https://descartesnetwork.github.io/interdao.so/index.js",
     "appId": "interdao",
