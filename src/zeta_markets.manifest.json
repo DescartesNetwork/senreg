@@ -1,0 +1,12 @@
+{
+  "url": "https://descartesnetwork.github.io/zeta-markets-iframe/index.js",
+  "appId": "zeta_markets",
+  "name": "Zeta Markets",
+  "author": {
+    "name": "Zeta Markets Team",
+    "email": "https://discord.com/invite/SacGBFKNzQ"
+  },
+  "tags": ["defi", "liquidity", "options", "derivatives", "futures", "dex"],
+  "description": "The world's first options and futures DEX.",
+  "verified": false
+}
