@@ -1,4 +1,20 @@
 {
+  "any_arts": {
+    "url": "https://descartesnetwork.github.io/anyarts.so/index.js",
+    "appId": "any_arts",
+    "name": "Any Arts",
+    "author": {
+      "name": "Descartes Network",
+      "email": "hello@descartes.network"
+    },
+    "tags": [
+      "NFT",
+      "payment",
+      "utility"
+    ],
+    "description": "Buy NFTs buy any SPL tokens.",
+    "verified": false
+  },
   "balansol": {
     "url": "https://descartesnetwork.github.io/balansol/index.js",
     "appId": "balansol",
