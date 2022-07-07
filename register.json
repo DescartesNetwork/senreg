@@ -47,6 +47,21 @@
     "description": "Single signature for Multiple transactions",
     "verified": true
   },
+  "coinfra": {
+    "url": "https://descartesnetwork.github.io/coinfra-iframe/index.js",
+    "appId": "coinfra",
+    "name": "Coinfra",
+    "author": {
+      "name": "Coinfra Team",
+      "email": "https://discord.com/invite/psKdEkcmkU"
+    },
+    "tags": [
+      "NFT",
+      "utility"
+    ],
+    "description": "NFT Project Launchpad on Solana.",
+    "verified": false
+  },
   "defi_land": {
     "url": "https://descartesnetwork.github.io/defiland-iframe/index.js",
     "appId": "defi_land",
