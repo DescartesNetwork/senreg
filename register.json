@@ -47,6 +47,21 @@
     "description": "Single signature for Multiple transactions",
     "verified": true
   },
+  "connector_tester": {
+    "url": "https://tuphan-dn.github.io/connector-tester/index.js",
+    "appId": "connector_tester",
+    "name": "Connector Tester",
+    "author": {
+      "name": "Tu Phan",
+      "email": "tuphan@descartes.network"
+    },
+    "tags": [
+      "utility",
+      "dev"
+    ],
+    "description": "Senhub Connector Tester",
+    "verified": false
+  },
   "defi_land": {
     "url": "https://descartesnetwork.github.io/defiland-iframe/index.js",
     "appId": "defi_land",
