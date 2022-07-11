@@ -1,0 +1,9 @@
+{
+  "url": "https://tuphan-dn.github.io/connector-tester/index.js",
+  "appId": "connector_tester",
+  "name": "Connector Tester",
+  "author": { "name": "Tu Phan", "email": "tuphan@descartes.network" },
+  "tags": ["utility", "dev"],
+  "description": "Senhub Connector Tester",
+  "verified": false
+}
