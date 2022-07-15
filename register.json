@@ -107,6 +107,22 @@
     "description": "🌏 InterDAO is a universal DAO solution that projects on Solana can seamlessly construct their owned DAO.",
     "verified": false
   },
+  "lido": {
+    "url": "https://descartesnetwork.github.io/lido-iframe/index.js",
+    "appId": "lido",
+    "name": "Lido",
+    "author": {
+      "name": "Lido Team",
+      "email": "info@lido.fi"
+    },
+    "tags": [
+      "defi",
+      "liquidity",
+      "staking"
+    ],
+    "description": "Liquidity for staked assets",
+    "verified": false
+  },
   "lightning_tunnel": {
     "url": "https://descartesnetwork.github.io/lightning-tunnel/index.js",
     "appId": "lightning_tunnel",
