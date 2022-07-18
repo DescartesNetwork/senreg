@@ -1,0 +1,12 @@
+{
+  "url": "https://descartesnetwork.github.io/hedge-iframe/index.js",
+  "appId": "hedge",
+  "name": "Hedge",
+  "author": {
+    "name": "Hedge Team",
+    "email": "https://discord.com/invite/qfqegrRWmw"
+  },
+  "tags": ["defi", "liquidity", "borrow"],
+  "description": "0% Interest Liquidity on Solana",
+  "verified": false
+}
