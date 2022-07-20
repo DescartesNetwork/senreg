@@ -1,0 +1,9 @@
+{
+  "url": "https://descartesnetwork.github.io/aurory-iframe/index.js",
+  "appId": "aurory",
+  "name": "Aurory",
+  "author": { "name": "Aurory", "email": "https://discord.com/invite/aurory" },
+  "tags": ["game", "gamefi", "nft"],
+  "description": "Aurory, a Solana-based blockchain gaming project!",
+  "verified": false
+}
