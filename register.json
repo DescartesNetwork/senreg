@@ -15,6 +15,22 @@
     "description": "Buy NFTs buy any SPL tokens.",
     "verified": false
   },
+  "aurory": {
+    "url": "https://descartesnetwork.github.io/aurory-iframe/index.js",
+    "appId": "aurory",
+    "name": "Aurory",
+    "author": {
+      "name": "Aurory",
+      "email": "https://discord.com/invite/aurory"
+    },
+    "tags": [
+      "game",
+      "gamefi",
+      "nft"
+    ],
+    "description": "Aurory, a Solana-based blockchain gaming project!",
+    "verified": false
+  },
   "balansol": {
     "url": "https://descartesnetwork.github.io/balansol/index.js",
     "appId": "balansol",
