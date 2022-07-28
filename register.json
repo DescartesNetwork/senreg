@@ -264,6 +264,24 @@
     "description": "SPLT Swap for SPL tokens",
     "verified": false
   },
+  "solend": {
+    "url": "https://descartesnetwork.github.io/solend-iframe/index.js",
+    "appId": "solend",
+    "name": "Solend",
+    "author": {
+      "name": "Solend Team",
+      "email": "https://discord.com/invite/aGXvPNGXDT"
+    },
+    "tags": [
+      "defi",
+      "lending",
+      "borrowing",
+      "staking",
+      "liquidity"
+    ],
+    "description": "Solend is the autonomous interest rate machine for lending on Solana",
+    "verified": false
+  },
   "sypool": {
     "url": "https://descartesnetwork.github.io/sypool-iframe/index.js",
     "appId": "sypool",
