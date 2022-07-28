@@ -8,5 +8,5 @@
   },
   "tags": ["defi", "lending", "borrowing", "staking", "liquidity"],
   "description": "Solend is the autonomous interest rate machine for lending on Solana",
-  "verified": false
+  "verified": true
 }

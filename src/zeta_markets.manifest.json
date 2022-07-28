@@ -8,5 +8,5 @@
   },
   "tags": ["defi", "liquidity", "options", "derivatives", "futures", "dex"],
   "description": "The world's first options and futures DEX.",
-  "verified": false
+  "verified": true
 }

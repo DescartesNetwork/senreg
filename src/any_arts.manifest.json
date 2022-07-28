@@ -5,5 +5,5 @@
   "author": { "name": "Descartes Network", "email": "hello@descartes.network" },
   "tags": ["NFT", "payment", "utility"],
   "description": "Buy NFTs buy any SPL tokens.",
-  "verified": false
+  "verified": true
 }

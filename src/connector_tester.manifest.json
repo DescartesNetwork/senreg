@@ -5,5 +5,5 @@
   "author": { "name": "Tu Phan", "email": "tuphan@descartes.network" },
   "tags": ["utility", "dev"],
   "description": "Senhub Connector Tester",
-  "verified": false
+  "verified": true
 }
