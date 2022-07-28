@@ -13,7 +13,7 @@
       "utility"
     ],
     "description": "Buy NFTs buy any SPL tokens.",
-    "verified": false
+    "verified": true
   },
   "aurory": {
     "url": "https://descartesnetwork.github.io/aurory-iframe/index.js",
@@ -76,7 +76,7 @@
       "dev"
     ],
     "description": "Senhub Connector Tester",
-    "verified": false
+    "verified": true
   },
   "defi_land": {
     "url": "https://descartesnetwork.github.io/defiland-iframe/index.js",
@@ -109,7 +109,7 @@
       "stable"
     ],
     "description": "0% Interest Liquidity on Solana",
-    "verified": false
+    "verified": true
   },
   "idl_parser": {
     "url": "https://descartesnetwork.github.io/idl-parser/index.js",
@@ -280,7 +280,7 @@
       "liquidity"
     ],
     "description": "Solend is the autonomous interest rate machine for lending on Solana",
-    "verified": false
+    "verified": true
   },
   "sypool": {
     "url": "https://descartesnetwork.github.io/sypool-iframe/index.js",
@@ -314,6 +314,6 @@
       "dex"
     ],
     "description": "The world's first options and futures DEX.",
-    "verified": false
+    "verified": true
   }
 }
