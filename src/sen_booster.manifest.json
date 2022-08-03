@@ -3,7 +3,7 @@
   "appId": "sen_booster",
   "name": "Sen Booster",
   "author": { "name": "Sentre", "email": "hi@sentre.io" },
-  "tags": ["dapps", "sentre", "p2p", "exchange", "liquidity", "staking"],
+  "tags": ["p2p", "exchange", "liquidity", "staking"],
   "description": "Buy your crypto at better-than-market price",
   "verified": false
 }
