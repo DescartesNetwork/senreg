@@ -1,0 +1,9 @@
+{
+  "url": "https://descartesnetwork.github.io/sen-booster/index.js",
+  "appId": "sen_booster",
+  "name": "Sen Booster",
+  "author": { "name": "Sentre", "email": "hi@sentre.io" },
+  "tags": ["p2p", "exchange", "liquidity", "staking"],
+  "description": "Buy your crypto at better-than-market price",
+  "verified": false
+}
