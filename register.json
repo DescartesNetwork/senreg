@@ -219,6 +219,23 @@
     "description": "To manage your SPL tokens by many advanced functions",
     "verified": true
   },
+  "sen_booster": {
+    "url": "https://descartesnetwork.github.io/sen-booster/index.js",
+    "appId": "sen_booster",
+    "name": "Sen Booster",
+    "author": {
+      "name": "Sentre",
+      "email": "hi@sentre.io"
+    },
+    "tags": [
+      "p2p",
+      "exchange",
+      "liquidity",
+      "staking"
+    ],
+    "description": "Buy your crypto at better-than-market price",
+    "verified": false
+  },
   "sen_farming": {
     "url": "https://descartesnetwork.github.io/sen-farming/index.js",
     "appId": "sen_farming",
