@@ -3,7 +3,7 @@
   "appId": "sen_booster",
   "name": "Sen Booster",
   "author": { "name": "Sentre", "email": "hi@sentre.io" },
-  "tags": ["solana", "dapps"],
-  "description": "A sample project for Sentre developers",
+  "tags": ["dapps", "sentre"],
+  "description": "Buy your crypto at better-than-market price",
   "verified": false
 }
