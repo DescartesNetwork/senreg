@@ -282,7 +282,7 @@
       "staking"
     ],
     "description": "Stake your LP tokens to earn more profit",
-    "verified": false
+    "verified": true
   },
   "sen_lp": {
     "url": "https://descartesnetwork.github.io/sen-lp/index.js",
