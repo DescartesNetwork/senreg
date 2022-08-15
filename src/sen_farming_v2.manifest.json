@@ -1,0 +1,9 @@
+{
+  "url": "https://descartesnetwork.github.io/sen-farming-v2-app/index.js",
+  "appId": "sen_farming_v2",
+  "name": "Sen Farming V2",
+  "author": { "name": "Sentre", "email": "hi@sentre.io" },
+  "tags": ["sentre", "farming", "liquidity", "staking"],
+  "description": "Stake your LP tokens to earn more profit",
+  "verified": false
+}
