@@ -1,0 +1,9 @@
+{
+  "url": "https://descartesnetwork.github.io/otter-cash-iframe/index.js",
+  "appId": "otter_cash",
+  "name": "Otter Cash",
+  "author": { "name": "Otter Cash Team", "email": "chris@otter.cash" },
+  "tags": ["privary", "prifi", "zk"],
+  "description": "A privacy layer for the Solana ecosystem.",
+  "verified": false
+}
