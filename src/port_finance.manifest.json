@@ -1,0 +1,9 @@
+{
+  "url": "https://descartesnetwork.github.io/port-finance-iframe/index.js",
+  "appId": "port_finance",
+  "name": "Port Finance",
+  "author": { "name": "Port Finance Team", "email": "hello@port.finance" },
+  "tags": ["liquidity", "lending"],
+  "description": "A suite of money market products built on Solana",
+  "verified": false
+}
