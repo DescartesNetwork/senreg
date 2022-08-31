@@ -3,7 +3,7 @@
   "appId": "port_finance",
   "name": "Port Finance",
   "author": { "name": "Port Finance Team", "email": "hello@port.finance" },
-  "tags": ["liquidity", "lending"],
+  "tags": ["liquidity", "lending", "borrowing"],
   "description": "A suite of money market products built on Solana",
   "verified": false
 }
