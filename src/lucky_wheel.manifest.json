@@ -1,0 +1,9 @@
+{
+  "url": "https://descartesnetwork.github.io/sen-lucky-wheel/index.js",
+  "appId": "lucky_wheel",
+  "name": "Lucky Wheel",
+  "author": { "name": "Sentre", "email": "hi@sentre.io" },
+  "tags": ["sentre", "game"],
+  "description": "Spin and win up to $10,000 NFTs. Earn FREE GIFTS from every spins.",
+  "verified": false
+}
