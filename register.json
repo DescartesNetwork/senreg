@@ -219,6 +219,22 @@
     "description": "A privacy layer for the Solana ecosystem.",
     "verified": false
   },
+  "port_finance": {
+    "url": "https://descartesnetwork.github.io/port-finance-iframe/index.js",
+    "appId": "port_finance",
+    "name": "Port Finance",
+    "author": {
+      "name": "Port Finance Team",
+      "email": "hello@port.finance"
+    },
+    "tags": [
+      "liquidity",
+      "lending",
+      "borrowing"
+    ],
+    "description": "A suite of money market products built on Solana",
+    "verified": false
+  },
   "saros": {
     "url": "https://descartesnetwork.github.io/saros-iframe/index.js",
     "appId": "saros",
