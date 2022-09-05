@@ -1,0 +1,9 @@
+{
+  "url": "https://descartesnetwork.github.io/friktion-iframe/index.js",
+  "appId": "friktion",
+  "name": "Friktion",
+  "author": { "name": "Friktion Team", "email": "team@friktionlabs.com" },
+  "tags": ["defi", "portfolio"],
+  "description": "Generate sustainable yield and diversify your portfolio with strategies powered by Friktion",
+  "verified": false
+}
