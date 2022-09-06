@@ -5,5 +5,5 @@
   "author": { "name": "Otter Cash Team", "email": "chris@otter.cash" },
   "tags": ["privary", "prifi", "zk"],
   "description": "A privacy layer for the Solana ecosystem.",
-  "verified": false
+  "verified": true
 }

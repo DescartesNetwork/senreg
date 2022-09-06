@@ -1,0 +1,12 @@
+{
+  "url": "https://descartesnetwork.github.io/meanfi-iframe/index.js",
+  "appId": "meanfi",
+  "name": "Meanfi",
+  "author": {
+    "name": "Mean Finance",
+    "email": "https://meanhq.atlassian.net/servicedesk/customer/portal/3"
+  },
+  "tags": ["dao", "multisig", "safe", "streaming", "portfolio"],
+  "description": "Manage Your Treasury With Real-Time Finance",
+  "verified": true
+}
