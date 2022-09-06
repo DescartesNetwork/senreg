@@ -217,6 +217,24 @@
     "description": "Spin and win up to $10,000 NFTs. Earn FREE GIFTS from every spins.",
     "verified": false
   },
+  "meanfi": {
+    "url": "https://descartesnetwork.github.io/meanfi-iframe/index.js",
+    "appId": "meanfi",
+    "name": "Meanfi",
+    "author": {
+      "name": "Mean Finance",
+      "email": "https://meanhq.atlassian.net/servicedesk/customer/portal/3"
+    },
+    "tags": [
+      "dao",
+      "multisig",
+      "safe",
+      "streaming",
+      "portfolio"
+    ],
+    "description": "Manage Your Treasury With Real-Time Finance",
+    "verified": true
+  },
   "mini_royale": {
     "url": "https://descartesnetwork.github.io/miniroyale-iframe/index.js",
     "appId": "mini_royale",
@@ -247,7 +265,7 @@
       "zk"
     ],
     "description": "A privacy layer for the Solana ecosystem.",
-    "verified": false
+    "verified": true
   },
   "port_finance": {
     "url": "https://descartesnetwork.github.io/port-finance-iframe/index.js",
