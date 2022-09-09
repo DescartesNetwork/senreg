@@ -3,7 +3,7 @@
   "appId": "francium",
   "name": "Francium",
   "author": { "name": "Francium Team", "email": "contact@francium.io" },
-  "tags": ["defi", "lending", "yeild"],
+  "tags": ["defi", "lending", "yeild", "liquidity"],
   "description": "DeFi Yield Strategy Platform",
   "verified": true
 }
