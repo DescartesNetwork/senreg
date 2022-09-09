@@ -1,0 +1,9 @@
+{
+  "url": "https://descartesnetwork.github.io/francium-iframe/index.js",
+  "appId": "francium",
+  "name": "Francium",
+  "author": { "name": "Francium Team", "email": "contact@francium.io" },
+  "tags": ["defi", "lending", "yeild"],
+  "description": "DeFi Yield Strategy Platform",
+  "verified": true
+}
