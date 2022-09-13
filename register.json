@@ -78,9 +78,9 @@
     "description": "Senhub Connector Tester",
     "verified": true
   },
-  "defi_land": {
+  "de_fi_land": {
     "url": "https://descartesnetwork.github.io/defiland-iframe/index.js",
-    "appId": "defi_land",
+    "appId": "de_fi_land",
     "name": "DeFi Land",
     "author": {
       "name": "DeFi Land",
@@ -172,9 +172,9 @@
     "description": "The developer's tool for parsing IDL and generating instruction",
     "verified": false
   },
-  "interdao": {
+  "inter_dao": {
     "url": "https://descartesnetwork.github.io/interdao.so/index.js",
-    "appId": "interdao",
+    "appId": "inter_dao",
     "name": "InterDAO",
     "author": {
       "name": "Descartes Network",
