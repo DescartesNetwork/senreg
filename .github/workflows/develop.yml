@@ -15,6 +15,6 @@ jobs:
       - name: Checkout git
         uses: actions/checkout@v2
       - name: Install dependencies
-        run: npm install
+        run: yarn install
       - name: Test
-        run: npm test
+        run: yarn test
